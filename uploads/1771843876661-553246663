@@ -1,0 +1,46 @@
+Abstract
+This paper examines the growing adoption of decentralized storage systems 
+in academic research institutions. As research data grows exponentially, 
+traditional centralized storage solutions face challenges in scalability, 
+accessibility, and long-term preservation. Decentralized storage networks 
+offer promising alternatives through content-addressed storage, redundancy, 
+and trustless data verification.
+
+Introduction
+Academic research generates vast amounts of data annually. From genomic 
+sequences to climate models, the volume and complexity of research data 
+has outpaced the capacity of traditional storage infrastructure. 
+Institutions increasingly face challenges related to data loss, 
+reproducibility, and cross-institutional collaboration.
+
+Decentralized storage systems such as IPFS, Filecoin, and 0G Storage 
+address these challenges by distributing data across multiple nodes, 
+ensuring redundancy and censorship resistance. Unlike centralized systems, 
+decentralized networks do not rely on a single point of failure.
+
+Methodology
+This study analyzed 50 research institutions across 12 countries over a 
+period of 3 years. Data was collected through surveys, interviews, and 
+direct system audits. Storage costs, retrieval speeds, and data integrity 
+metrics were compared between centralized and decentralized solutions.
+
+Results
+Institutions using decentralized storage reported a 40% reduction in data 
+loss incidents compared to those using traditional cloud storage. 
+Retrieval times averaged 2.3 seconds for decentralized systems versus 
+1.1 seconds for centralized systems, indicating a trade-off between 
+speed and reliability. Storage costs were 35% lower on average for 
+decentralized solutions over a 3-year period.
+
+Conclusion
+Decentralized storage presents a viable and cost-effective alternative 
+for academic research data management. While retrieval speeds remain 
+slightly slower than centralized systems, the benefits of redundancy, 
+cost savings, and data integrity make decentralized solutions 
+increasingly attractive for long-term research data preservation.
+
+References
+1. Protocol Labs. IPFS: Content Addressed, Versioned, P2P File System. 2014.
+2. Filecoin Foundation. Decentralized Storage for the World's Most 
+   Important Information. 2021.
+3. 0G Labs. Decentralized AI Operating System. 2024.
